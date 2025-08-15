@@ -1,3 +1,11 @@
+## Tests
+This Recovery is based on SM-S711U, But all testing was conducted on SM-S7110, including orangefox
+
+# Contributors
+- [Maxim](https://github.com/Maxim-Root) - Device Owner & Main Tester
+- [Jamie](https://github.com/SavedByLight) - Maintainer
+- [Teamwin Recovery Project](https://github.com/teamwin)
+
 Blocking checks
 - [x] Correct screen/recovery size
 - [x] Working Touch, screen
@@ -14,7 +22,7 @@ Medium checks
 - [x] all important partitions listed in mount/backup lists
 - [x] backup/restore to/from external (USB-OTG) storage (not supported by the device)
 - [#] backup/restore to/from adb (https://gerrit.omnirom.org/#/c/15943/)
-- [ ] decrypt /data (Probably can't be fixed)
+- [ ] decrypt /data
 - [x] Correct date
 
 Minor checks
