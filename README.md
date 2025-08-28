@@ -1,3 +1,6 @@
+# android-12.1c
+this branch is for the chinese model of the phone which currently has boot problems on the main branch
+
 # Contributors
 - [Maxim](https://github.com/Maxim-Root) - Device Owner & Main Tester
 - [Jamie](https://github.com/SavedByLight) - Maintainer
